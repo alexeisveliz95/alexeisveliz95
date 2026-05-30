@@ -1,20 +1,13 @@
 ```
 ┌──────────────────────────────────────────────────────────────────┐
-│  alexeisveliz95@github:~$ cat about.txt                         │
+│  alexeisveliz95@github:~$ cat about.txt                          │
 ├──────────────────────────────────────────────────────────────────┤
 │                                                                  │
 │  > Developer & Automation Enthusiast                             │
 │  > Python | Shell | Automation                                   │
-│  > "Trying to learn programming when code is 100% AI"           │
+│  > "Trying to learn programming when code is 100% AI"            │
 │                                                                  │
 └──────────────────────────────────────────────────────────────────┘
-```
-
-```
-$ python3 --version
-Python 3.x
-
-$ echo $TECH_STACK
 ```
 
 ![Python](https://img.shields.io/badge/-Python-1e3a5f?style=flat-square&logo=python&logoColor=white)
